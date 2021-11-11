@@ -30,7 +30,7 @@ This is a basic project for machine learning beginners to predict the species of
 
 Please find the following files:
 
-    1.Required .ipynb file.
+    Required .ipynb file.
     
 
 Links:
